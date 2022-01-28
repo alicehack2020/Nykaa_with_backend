@@ -1,5 +1,5 @@
 * {
-    
+
     font-family: "Source Sans Pro", Roboto, Arial, sans-serif;
 }
 
@@ -14,7 +14,7 @@ h1 {
     font-weight: bolder;
 }
 
-#top1{
+#top1 {
     display: flex;
     justify-content: center;
     background-color: #3f414d;
@@ -50,7 +50,7 @@ h1 {
 
 .IconText img {
     margin-right: 10px;
-    
+
 }
 
 .feedback .input {
@@ -77,47 +77,47 @@ h1 {
 
 }
 
-#top2{
+#top2 {
     display: flex;
     justify-content: center;
     background-color: grey;
 }
 
 #cont-2 {
-   
+
     width: 80%;
     display: grid;
     grid-template-columns: repeat(5, 16%);
     grid-gap: 4%;
     padding: 2rem 0rem;
     color: white;
-    
+
 }
 
 li {
     list-style: none;
     padding: 0.7rem 0;
     font-size: 0.9rem;
-    
+
 }
 
 .links ul li a {
     font-size: 0.8rem;
     text-decoration: none;
     color: white;
- 
-   
+
+
 
 
 }
 
 .links ul li a:hover {
     color: #fc2779;
-  
-   
+
+
 }
 
-#top3{
+#top3 {
     display: flex;
     justify-content: center;
     /* background-color: grey; */
@@ -131,7 +131,7 @@ li {
     grid-gap: 4%;
     text-align: center;
     padding: 2rem 1rem;
-    
+
 
 
 }
@@ -164,9 +164,10 @@ li {
     margin: 15px;
     text-align: center;
     line-height: 2rem;
-    
+
 }
-.content div:last-child{
+
+.content div:last-child {
     font-size: 0.7rem;
 }
 
@@ -209,11 +210,16 @@ li {
     font-size: 0.8rem;
 }
 
-.c-4-links{
+.c-4-links {
     margin-bottom: 15px;
 }
+
 .mini-text {
     font-size: 0.6rem;
 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.icon img {
+    width: 80%;
 }
